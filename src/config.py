@@ -1,0 +1,9 @@
+problemName    = 'Rastrigin' 
+problemSize    = 1000
+populationSize = 200
+fitnessEvals   = 200*25000
+techs          = ['RealUCUM','RealBCUM','RealUCGM','RealBCGM']
+#techs          = ['RealUCUM','RealBCUM','RealUCGM']
+#logger_level = 'debug'
+logger_level   = 'only_stats'
+#logger_level = 'none'
